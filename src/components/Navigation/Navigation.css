@@ -1,0 +1,8 @@
+.navigation {
+    width: 100%;
+    text-align: center;
+}
+
+.nav-item.active {
+    display: none;
+}
